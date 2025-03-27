@@ -8,3 +8,10 @@
 2. 通过 server.tool() 注册工具
 3. 使用 zod 进行参数验证
 4. 返回标准化的响应格式
+
+## quick start
+
+安装依赖
+
+1. npm run build
+2. npx @modelcontextprotocol/inspector node dist/index.js
